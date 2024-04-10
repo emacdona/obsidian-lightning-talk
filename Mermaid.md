@@ -5,3 +5,5 @@ sequenceDiagram
 	Audience->>Ed: Showers with applause
 	Ed->>Rawal Kabob: Buys his favorite dinner to celebrate
 ```
+
+[[Mathjax|previous]] [[Tasks plugin|next]]

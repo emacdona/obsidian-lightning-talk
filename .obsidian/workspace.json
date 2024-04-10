@@ -4,22 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "3ebcbfbc0d051401",
-        "type": "tabs",
+        "id": "8f5aadc0872b1288",
+        "type": "split",
         "children": [
           {
-            "id": "56bc5d2c303015cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What is Obsidian ?.md",
-                "mode": "source",
-                "source": false
+            "id": "3ebcbfbc0d051401",
+            "type": "tabs",
+            "dimension": 43.62363919129083,
+            "children": [
+              {
+                "id": "56bc5d2c303015cc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tasks plugin.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "a52aef32cd2a74b5",
+            "type": "tabs",
+            "dimension": 56.37636080870918,
+            "children": [
+              {
+                "id": "5bf3677509ced1db",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tasks (Covey).md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -101,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is Obsidian ?.md",
+                "file": "Tasks plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is Obsidian ?.md",
+                "file": "Tasks plugin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is Obsidian ?.md"
+                "file": "Tasks plugin.md"
               }
             }
           }
@@ -166,15 +193,15 @@
   },
   "active": "56bc5d2c303015cc",
   "lastOpenFiles": [
-    "Obsidian.md",
-    "Tasks plugin.md",
     "Tasks (Covey).md",
-    "2024-04-10.md",
-    "2024-04-08.md",
+    "Tasks plugin.md",
     "Mermaid.md",
     "Mathjax.md",
     "What can it do?.md",
     "What is Obsidian ?.md",
+    "Obsidian.md",
+    "2024-04-10.md",
+    "2024-04-08.md",
     "next.md",
     "2024-04-07.md",
     "Welcome.md",
