@@ -14,24 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "Tasks plugin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8370b0d6ff56c082",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e6311ed512b40f04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks (Covey).md",
                 "mode": "preview",
                 "source": false
               }
