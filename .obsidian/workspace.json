@@ -18,8 +18,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Tasks plugin.md",
-                    "mode": "source",
+                    "file": "Questions?.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks plugin.md",
+                "file": "Questions?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks plugin.md",
+                "file": "Questions?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks plugin.md"
+                "file": "Questions?.md"
               }
             }
           }
@@ -193,14 +193,15 @@
   },
   "active": "56bc5d2c303015cc",
   "lastOpenFiles": [
-    "README.md",
-    "Tasks (Covey).md",
+    "Obsidian.md",
+    "Questions?.md",
     "Tasks plugin.md",
     "Mermaid.md",
+    "README.md",
+    "Tasks (Covey).md",
     "Mathjax.md",
     "What can it do?.md",
     "What is Obsidian ?.md",
-    "Obsidian.md",
     "2024-04-10.md",
     "2024-04-08.md",
     "next.md",

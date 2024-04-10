@@ -9,3 +9,5 @@
 
 - [ ] Use them to implement the Covey system (shout out to Greg) 📅 2024-04-09
 - [ ] Try creating some tasks, marking them \#important, etc
+
+[[Mermaid|previous]] [[Questions?|next]]
